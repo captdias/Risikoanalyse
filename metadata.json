@@ -1,0 +1,6 @@
+{
+  "name": "Hvittingsfoss Alpinklubb – Risikovurdering",
+  "description": "Webapp for årlig og daglig risikovurdering, rammeverk, Excel-import og rapportering for Hvittingsfoss Alpinklubb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
